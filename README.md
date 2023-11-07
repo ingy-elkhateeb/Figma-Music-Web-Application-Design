@@ -19,3 +19,9 @@ Also the logo is designed using Figma<br><br>
 You can navigate to  this link to try it
 
 [Live Demo](https://www.figma.com/proto/UXjQVAg3ZYFbSQSg6BJil2/Untitled?type=design&node-id=3-2&t=jiCfkaXghfTgwhb9-1&scaling=contain&page-id=0%3A1&starting-point-node-id=3%3A2&mode=design).
+
+## Recorded Demo
+<br><br>
+
+[video](Figma-sounwave.mp4)
+
