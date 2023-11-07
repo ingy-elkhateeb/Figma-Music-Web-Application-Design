@@ -21,7 +21,16 @@ You can navigate to  this link to try it
 [Live Demo](https://www.figma.com/proto/UXjQVAg3ZYFbSQSg6BJil2/Untitled?type=design&node-id=3-2&t=jiCfkaXghfTgwhb9-1&scaling=contain&page-id=0%3A1&starting-point-node-id=3%3A2&mode=design).
 
 ## Recorded Demo
-<br><br>
+<br>
 
-[video](Figma-sounwave.mp4)
+<div align="center">
+<video controls autoplay>
+      <source src="Figma-sounwave.mp4" type=video/mp4>
+</video>
+
+
+https://github.com/ingy-elkhateeb/Figma-Music-Web-Application-Design/assets/131768702/fcdf024e-80b0-49e6-a9df-e289fb2e1a02
+
+
+</div>
 
